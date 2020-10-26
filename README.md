@@ -17,7 +17,7 @@ I specialise in building robust data solutions and have a knack for finding wher
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🌱 I’m currently learning Flink and improving my expertise in Spark and Scala   
 
@@ -26,16 +26,6 @@ I specialise in building robust data solutions and have a knack for finding wher
 - 🦉 Fun fact: I ALWAYS keep night mode switched on   
 
  * ⚡ I'm  working on improving my getting-things-done attitude with todoist and radical candor  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
