@@ -8,14 +8,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Glad to see you here!  
 I'm a Data developer/Team lead, I love designing and building data intensive applications, since hey, that's where the fun is :).
 
-I specialise in building robust data solutions and have a knack for finding where that extra optimisation you're looking for can be found.   
-  
+I specialise in building robust data solutions and have a knack for finding where that extra optimisation you're looking for can be found.
 
 <br/>  
 
@@ -45,28 +41,24 @@ I specialise in building robust data solutions and have a knack for finding wher
 
 
 ## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/graphql.png" alt="GraphQL" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/ansible.png" alt="Ansible" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/scala-original-wordmark.svg" alt="Scala" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/grafana.png" alt="Grafana" height="25" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/kibana.png" alt="Kibana" height="25" />  
+<div align="center">
+<img style="margin: 10px" src="./static/amazonwebservices-original-wordmark.svg" alt="AWS" height="45" />  
+<img style="margin: 10px" src="./static/docker-original-wordmark.svg" alt="Docker" height="45" />  
+<img style="margin: 10px" src="./static/mysql-original-wordmark.svg" alt="MySQL" height="45" />  
+<img style="margin: 10px" src="./static/kubernetes-icon.svg" alt="Kubernetes" height="45" />  
+<img style="margin: 10px" src="./static/gnu_bash-icon.svg" alt="Bash" height="45" />  
+<img style="margin: 10px" src="./static/elasticsearch.png" alt="Elastic Search" height="45" />  
+<img style="margin: 10px" src="./static/linux-original.svg" alt="Linux" height="45" />  
+<img style="margin: 10px" src="./static/git-scm-icon.svg" alt="Git" height="45" />  
+<img style="margin: 10px" src="./static/java-original-wordmark.svg" alt="Java" height="45" />  
+<img style="margin: 10px" src="./static/redis-original-wordmark.svg" alt="Redis" height="45" />  
+<img style="margin: 10px" src="./static/scala-original-wordmark.svg" alt="Scala" height="45" />  
+<img style="margin: 10px" src="./static/python-original.svg" alt="Python" height="45" />  
+<img style="margin: 10px" src="./static/apache_kafka-icon.svg" alt="Kafka" height="45" />  
+<img style="margin: 10px" src="./static/apache_hadoop-icon.svg" alt="Hadoop" height="45" />  
+<img style="margin: 10px" src="./static/apache_cassandra-icon.svg" alt="Cassandra" height="45" />  
+<img style="margin: 10px" src="./static/grafana.png" alt="Grafana" height="45" />  
+<img style="margin: 10px" src="./static/kibana.png" alt="Kibana" height="45" />  
 </div>  
 
 <br/>  
