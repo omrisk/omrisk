@@ -9,7 +9,7 @@
 </a>  
   
 ### Glad to see you here!  
-I'm a Data developer/Team lead, I love designing and building data intensive applications, since hey, that's where the fun is :).
+I'm a Data developer/Team lead/Architect, I love designing and building data intensive applications, since hey, that's where the fun is :).
 
 I specialise in building robust data solutions and have a knack for finding where that extra optimisation you're looking for can be found.
 
